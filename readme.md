@@ -1,4 +1,5 @@
 # BridgeLabz training 2115000384
 
-Assignment 1 submitted on 19 Jan 2025
+## 19 jan 2025 --> COmpleted Assignment 1
+## 20 jan 2025 --> Evolution of java and its fundamentals
 
