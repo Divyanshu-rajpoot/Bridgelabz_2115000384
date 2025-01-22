@@ -1,4 +1,4 @@
-package Assignement_1;
+package Assignment_1;
 import java.util.Scanner;
 
 public class powercalcalculator {
