@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Question5 {
+public class Level2_Question5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt();
