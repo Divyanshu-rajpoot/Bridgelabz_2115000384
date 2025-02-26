@@ -9,7 +9,6 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class IPLCensorAnalyzer {
-
     public static void main(String[] args) throws IOException {
         String jsonInputPath = "ipl_matches.json";
         String jsonOutputPath = "ipl_matches_censored.json";
